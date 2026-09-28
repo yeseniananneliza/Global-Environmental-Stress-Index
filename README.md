@@ -30,6 +30,10 @@ The index is calculated using the following weighted measures:
 - Ozone: 10%
 - Carbon monoxide: 5%
 
+## Power BI Dashboard
+
+[Download the Power BI dashboard](environmental_stress_dashboard.pbix)
+
 ## Files
 
 - `environmental_stress_index.ipynb` — Main analysis notebook
